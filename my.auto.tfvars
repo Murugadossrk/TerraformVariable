@@ -1,3 +1,3 @@
-ins-name = "tcs-auto-ins"
-s3-name = "tcs-auto-s3"
-eip-name = "tcs-auto-ip"
+ins-name = "rmd-auto-ins"
+s3-name = "rmd-auto-s3"
+eip-name = "rmd-auto-ip"
